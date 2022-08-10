@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\bin\Debug\Laboratory2.0.exe.config
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\bin\Debug\Laboratory2.0.exe
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\bin\Debug\Laboratory2.0.pdb
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\obj\Debug\Laboratory2.0.exe
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\obj\Debug\Laboratory2.0.pdb
+C:\Users\mort8\source\repos\Laboratory2.0\Laboratory2.0\obj\Debug\Laboratory2.0.csprojAssemblyReference.cache
